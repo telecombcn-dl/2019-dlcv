@@ -27,6 +27,8 @@ You should not sign up for this course. Build a strong basis whether by attendin
 
 * __Other students at UPC & Master in Computer Vision__: You might audit the course, with no official certification. If interested, fill in [this form][registration-form] before 10 June 2019. You may be granted a seat, if there are any available after ETSETB, CFIS & FIB students have signed up.
 
+* __Other students at European centres in the Erasmus+ network__: You can register to the course following the normal procedures of the [Erasmus program](http://ec.europa.eu/programmes/erasmus-plus/node_en). Contact the your home international office to know the details that apply to your specific case.
+
 * __Local industry members and other students from the European Higher Education Area__: You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). You may have a seat, if there are any available after UPC students have signed up.If you are interested in this option, please contact send an e-mail to [secretaria@etsetb.upc.edu](secretaria@etsetb.upc.edu) with subject "Inscripció al seminari MET 230360 DLCV", attaching single page motivation letter stating your previous experience with deep learning, as well as a one page CV, both in PDF. Registration is limited to local industry members and students registered in an institutionfrom the [European Higher Education Area](http://www.ehea.info/).
 
 [registration-form]: https://docs.google.com/forms/d/e/1FAIpQLSfnlQgg9ZHfDODwikN-4TEfbFrTbAEHCRquGnosFT25qTNpWQ/viewform?usp=sf_link
