@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "3rd Summer School on Deep Learning for Computer Vision UPC Barcelona 2018"
+title:       "4th Summer School on Deep Learning for Computer Vision UPC Barcelona 2019"
 keywords:    "computer vision, deep learning"
-description: "3rd Summer School on Deep Learning for Computer Vision UPC Barcelona 2018"
+description: "4th Summer School on Deep Learning for Computer Vision UPC Barcelona 2019"
 source_link: "https://github.com/telecombcn-dl"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
