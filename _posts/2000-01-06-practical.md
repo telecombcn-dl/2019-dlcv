@@ -8,7 +8,7 @@ fa-icon: check
 ## Practical
 
 * Course codes: [230360](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf) (Master)
-* ECTS credits: 2.5 (corresponds to **full-time dedication** during the week course)
+* ECTS credits: 2.5 MET / 3.0 MATT (corresponds to **full-time dedication** during the week course)
 * Teaching language: English
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
 * Class Dates: June 25 - July 1, 2018
