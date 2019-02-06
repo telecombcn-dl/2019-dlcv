@@ -7,7 +7,10 @@ fa-icon: check
 
 ## Practical
 
-* Pre-requisite: [Deep Learning for Artificial Intelligence](https://telecombcn-dl.github.io/2018-dlai/) or [Introduction to Deep Learning](https://telecombcn-dl.github.io/2019-idl/)
+* Pre-requisites:
+  * MSc students: [Deep Learning for Artificial Intelligence](https://telecombcn-dl.github.io/2018-dlai/) or [Introduction to Deep Learning](https://telecombcn-dl.github.io/2019-idl/)
+  * BSc students: [Introduction to Deep Learning](https://telecombcn-dl.github.io/2019-idl/). 
+  * CFIS students: [Machine & Deep Learning CFIS](https://sites.google.com/view/dlcfis2019/home)
 * Teaching language: English
 * Class Schedule: 3pm-7pm (you will need 4 extra hours a day for homework during the week course)
 * Capacity: 20 students
