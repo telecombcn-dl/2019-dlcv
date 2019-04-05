@@ -31,6 +31,6 @@ fa-icon: list
 
 ## Related courses
 
-* Fei-Fei Li, Andrej Karpathy, Justin Johnson, ["CS231n: Convolutional Neural Networks for Visual Recognition"](http://cs231n.stanford.edu/). Stanford University, Spring 2016.
-* Sanja Fidler, ["Deep Learning in Computer Vision"](http://www.cs.toronto.edu/~fidler/teaching/2015/CSC2523.html). University of Toronto, Winter 2016.
+* Fei-Fei Li, Andrej Karpathy, Justin Johnson, ["CS231n: Convolutional Neural Networks for Visual Recognition"](http://cs231n.stanford.edu/). Stanford University, Spring 2019.
+* Sanja Fidler, [Machine Learning in Computer Vision](http://www.cs.toronto.edu/~fidler/teaching/2018/CSC2548.html). University of Toronto, Winter 2019.
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
