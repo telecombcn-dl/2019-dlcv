@@ -28,7 +28,7 @@ Register directly at the [CFIS academic office](https://cfis.upc.edu/ca).
 
 * __Master students at FIB__: Contact the FIB academic office. They will collect all applications and submit them to ETSETB for approval. 
 
-* __Other students at UPC & Master in Computer Vision__: You might audit the course, with no official certification. If interested, fill in [this form][registration-form] before 10 June 2019. You may be granted a seat, if there are any available after ETSETB, CFIS & FIB students have signed up.
+* __Other students or researchers at UPC & Master in Computer Vision__: You might audit the course, with no official certification. If interested, fill in [this form][registration-form] before 10 June 2019. You may be granted a seat, if there are any available after ETSETB, CFIS & FIB students have signed up.
 
 * __Other students at European centres in the Erasmus+ network__: You can register to the course following the normal procedures of the [Erasmus program](http://ec.europa.eu/programmes/erasmus-plus/node_en). Contact the your home international office to know the details that apply to your specific case. You must have completed a Deep Learning course previously. 
 
