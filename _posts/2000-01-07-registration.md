@@ -30,6 +30,6 @@ Register directly at the [CFIS academic office](https://cfis.upc.edu/ca).
 
 * __Other students or researchers at UPC & Master in Computer Vision__: You might audit the course, with no official certification. If interested, fill in [this form][registration-form] before 10 June 2019. You may be granted a seat, if there are any available after ETSETB, CFIS & FIB students have signed up.
 
-* __Other students at European centres in the Erasmus+ network__: You can register to the course following the normal procedures of the [Erasmus program](http://ec.europa.eu/programmes/erasmus-plus/node_en). Contact the your home international office to know the details that apply to your specific case. You must have completed a Deep Learning course previously. 
+* __Other students currently enroled in another academic program: You can request attending to the seminar by sending your CV and motivation letter to the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta), clearly showing your previous knowledge in deep learning and their software frameworks. If accepted, you will need to cover the full cost of the course (429,24 euros, which correspond to 3 ECTS during academic course 2018/2019). You must alreaday be legally eligible to attend to this course, we will not release any acceptance later for visas.
 
 [registration-form]: https://docs.google.com/forms/d/e/1FAIpQLSfnlQgg9ZHfDODwikN-4TEfbFrTbAEHCRquGnosFT25qTNpWQ/viewform?usp=sf_link
