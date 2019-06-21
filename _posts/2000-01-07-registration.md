@@ -35,7 +35,7 @@ Register directly at the [CFIS academic office](https://cfis.upc.edu/ca).
 
 * __Other students currently enroled in another academic program: You can request attending to the seminar by sending your CV and motivation letter to the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta), clearly showing your previous knowledge in deep learning and their software frameworks. If accepted, you will need to cover the full cost of the course (429,24 euros, which correspond to 3 ECTS during academic course 2018/2019). You must alreaday be legally eligible to attend to this course, we will not release any acceptance later for visas.
 
-* Other profiles (eg. industry members): This course is not addressed to this audience. If you are interested in this topic, we suggest you consider the postgraduate program in [Artificial Intelligence with Deep Learning][aidl-upcschool] from UPC School. This postgraduate extends the contents of this Summer School and is also supported by the UPC TelecomBCN School.
+* Other profiles (eg. industry members): This course is not addressed to this audience. If you are interested in this topic, we suggest you consider the postgraduate program in [Artificial Intelligence with Deep Learning][aidl-upcschool] from UPC School. This postgraduate extends the contents of this Summer School and is also supported by the UPC TelecomBCN School. You can nevertheless attend to the Open Day session on Friday, which is public.
 
 [registration-form]: https://docs.google.com/forms/d/e/1FAIpQLSfnlQgg9ZHfDODwikN-4TEfbFrTbAEHCRquGnosFT25qTNpWQ/viewform?usp=sf_link
 [aidl-upcschool]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgrau-artificial-intelligence-deep-learning/
